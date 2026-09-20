@@ -1,0 +1,11 @@
+1. data collection
+2. data preprocessing
+3. build base line model
+4. setup mlflow server on aws
+5. improve base line model
+6. build ml pipeline
+7. add model to model register
+8. implement chrome plugin
+9. CI/CD workflow
+9. docker
+10. deployment
